@@ -1,3 +1,4 @@
 # solid-waffle
-![headshot]
+![headshot]sanderbenders.jpg
+
 testing
